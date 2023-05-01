@@ -1,6 +1,7 @@
 # Mobile App with Firebase
 
-JavaScript exercise from Scrimba
+JavaScript exercise from Scrimba with Firebase tutorial
 
 
-![](.gif)
+![](shopping1.gif)
+![](shopping2.gif)

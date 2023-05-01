@@ -1,9 +1,9 @@
 html, body {
     margin: 0;
     padding: 0;
-    font-family: 'Rubik', sans-serif;
-    background-color: #EEF0F4;
-    color: #432000;
+    font-family: 'Kanit', sans-serif;
+    background-color: #eee5e9;
+    color: #7c7c7c;
     user-select: none;
 }
 
@@ -21,29 +21,29 @@ img {
 
 input {
     color: #432000;
-    background-color: #DCE1EB;
+    background-color: #fff;
     border: 0;
     padding: 15px;
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Kanit', sans-serif;
     margin: 10px 0;
 }
 
 button {
     color: #FDFDFD;
-    background-color: #AC485A;
+    background-color: #C9D6FF;
     border: 0;
     padding: 15px;
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Kanit', sans-serif;
 }
 
 button:hover {
-    background-color: #432000;
+    background-color: #7c7c7c;
     cursor: pointer;
 }
 
